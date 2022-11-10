@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>VALLEJOS, VANESSA KAYLA B.</title>
+        <link rel="stylesheet" href="vallejos.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="left-side">
+                <div class="profiletext">
+                    <div class="imgbx">
+                        <img src="Vallejos.png">
+                    </div>
+                    <h2>Engr. Vanessa Kayla B. Vallejos<br><span>Web Developer Assistant and Civil Engineer</span></h2>
+                </div>
+                <div class="contactinfo">
+                    <h3 class="title">Contact Info</h3>
+                    <ul>
+                        <li>
+                            <span class="icon"><i class="fa fa-mobile"></i></span>
+                            <span class="text">+63995 570 6734</span>
+                        </li>
+                        <li>
+                            <span class="icon"><i class="fa fa-envelope"></i></span>
+                            <span class="text">vallejosvanessa59@gmail.com</span>
+                        </li>
+                        <li>
+                            <span class="icon"><i class="fa fa-globe"></i></span>
+                            <span class="text">www.Casadeviajera.com</span>
+                        </li>
+                        <li>
+                            <span class="icon"><i class="fa fa-map-marker"></i></span>
+                            <span class="text">21st Avenue, Settlement Balubad Nangka, Marikina City</span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="education">
+                    <h3 class="title">Education</h3>
+                    <ul>
+                        <li>
+                            <h5>2023-2028</h5>
+                            <h4>Bachelor of Science in Civil Engineering</h4>
+                            <h4>University of the Philippines</h4>
+                        </li>
+                        <li>
+                            <h5>2021-2023</h5>
+                            <h4>SHS GRADUATE</h4>
+                            <h4>Technological Institute of the Philippines</h4>
+                        </li>   
+                        <li>
+                            <h5>2017-2021</h5>
+                            <h4>JHS Graduated with high honor</h4>
+                            <h4>Nangka High School</h4>
+                        </li>
+                        <li>
+                            <h5>2011-2017</h5>
+                            <h4>Elementary Education</h4>
+                            <h4>Nangka Elementary School</h4>
+                        </li>
+                    </ul>
+                </div>
+                <div class="language">
+                    <h3 class="title">Languages</h3>
+                    <ul>
+                        <li>
+                           <span class="text1">English</span>
+                           <span class="percent">
+                               <div style="width: 80%;"></div>
+                           </span>
+                        </li>
+                        <li>
+                            <span class="text1">Filipino</span>
+                            <span class="percent">
+                                <div style="width: 100%;"></div>
+                            </span>
+                         </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="right-side">
+                <div class="about">
+                    <h2 class="title2" text align="left">Personal Information</h2>
+                        <div class="text1">
+                            <p class="name" text align="left">Name:</p>
+                            <span class="span1" font size="13px" text align="left">Vallejos, Vanessa Kayla B.</span>
+                        </div>
+						<br>
+						<div class="text2">
+                            <p class="name" text align="left">Birthday:</p>
+                            <span class="span2" font size="13px" text align="left">August 20,2004</span>
+                        </div>
+						<br>
+					<h2 class="title2">Experience</h2>
+                    <div class="box">
+                        <div class="year">
+                            <h5>2029 - 2034</h5>
+                            <h5>JGC Philippines</h5>
+                        </div>
+                        <div class="text">
+                            <h4>Irrigation Laborer</h4>
+                            <p>• Used positive attitude and strong work ethic to keep team morale high in challenging conditions.</p>
+                            <p>• Became proficient at using a multitude of machines and tools in conjuction with physical 
+							to install full backyard irrigation systems.</p>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <div class="year">
+                            <h5>2036 - Present</h5>
+                            <h5>SMEC Philippines</h5>
+                        </div>
+                        <div class="text">
+                            <h4>Intern, Civil Engineering Group</h4>
+                            <p> • Assisted civil engineers on several key goverment projects involving roadway designs and improvements, 
+							solutions easing traffic congestion and replacement of deteriorating bridges.</p>
+                            <p> • Gained experience in blueprint reading, as well as preparation of maps and plans.</p>
+                        </div>	
+                    </div>
+                     <div class="box">
+                        <div class="year">
+                            <h5>2039 - Present</h5>
+							<h5>ESCA Incorporated</h5>
+                        </div>
+                        <div class="text">
+                            <h4>Manager</h4>
+                            <p>• Responsible for the supervision, scheduling and organization of over fifty employees.</p>
+                            <p>• The ambassador of ESCA, always professional and courteous when dealing with customer complaints and issues.</p>
+                        </div>
+                    </div>
+                <div class="skills">
+                    <h2 class="title2">Professional Skills</h2>
+                    <div class="box">
+                        <h4>Problem-Solving</h4>
+                        <div class="percent2">
+                            <div style="width:96%;"></div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <h4>Leadership</h4>
+                        <div class="percent2">
+                            <div style="width:86%;"></div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <h4>Decision Making</h4>
+                        <div class="percent2">
+                            <div style="width:89%;"></div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <h4>Critical Thinking</h4>
+                        <div class="percent2">
+                            <div style="width:84%;"></div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <h4>Mathematical Skills</h4>
+                        <div class="percent2">
+                            <div style="width:96%;"></div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <h4>AutoCAD</h4>
+                        <div class="percent2">
+                            <div style="width:84%;"></div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <h4>Organisational</h4>
+                        <div class="percent2">
+                            <div style="width:81%;"></div>
+                        </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
